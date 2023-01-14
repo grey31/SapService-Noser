@@ -1,0 +1,34 @@
+{
+  "name": "b1slnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naukite/b1slnode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naukite/b1slnode/issues"
+  },
+  "homepage": "https://github.com/Naukite/b1slnode#readme",
+  "dependencies": {
+    "@sap/hana-client": "^2.13.22",
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node-emoji": "^1.10.0",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "dotenv": "^8.6.0"
+  }
+}
